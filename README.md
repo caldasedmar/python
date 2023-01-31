@@ -2,7 +2,7 @@
 > Status do projeto: Em desenvolvimento 
 
 ```
-Vamos utilizar o jupyter notebook!
+Vamos utilizar o jupyter notebook....
 
 ```
 :)  
